@@ -1,4 +1,3 @@
-// import React from 'react'
 import styles from './Skill.module.css'
 import CheckMark from  '../../assets/check-mark-svgrepo-com.svg'
 
@@ -7,7 +6,6 @@ import CheckMark from  '../../assets/check-mark-svgrepo-com.svg'
 
 
 import SkillList from '../../common/SkillList';
-import { useTheme } from '../../common/ThemeContext';
 
 function Skills() {
  

@@ -5,7 +5,8 @@ import CheckMark from  '../../assets/check-mark-svgrepo-com.svg'
 
 
 
-import SkillList from '../../common/SkillList';
+// import SkillList from '../../common/SkillList';
+import SkillList from '../../Common/SkillList'
 
 function Skills() {
  
